@@ -1,0 +1,41 @@
+div {
+  padding: 20px;
+  border: 2px solid #202733;
+  border-radius: 40px;
+  background-color: #313a48;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  width: 200px;
+  height: 200px;
+  color: #cee3e9;
+}
+
+/* i used position relative so i can move my empty div */
+.Div2 {
+  border: 2px solid #313a48;
+  border-radius: 100%;
+  width: 15px;
+  height: 15px;
+  background-color: #53ffaa;
+  position: relative;
+  bottom: 100px;
+  right: 3px;
+}
+
+.chapter {
+  color: #53ffaa;
+  text-align: center;
+}
+
+.line {
+  width: 200px;
+  position: relative;
+  bottom: 220px;
+}
+
+.button {
+  position: relative;
+  bottom: 140px;
+  left: 85px;
+}
